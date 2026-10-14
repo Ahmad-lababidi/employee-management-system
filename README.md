@@ -17,13 +17,13 @@ A full-stack, containerized web application designed for managing employee data 
 * Containerized using Docker and `docker-compose` to ensure consistent execution across environments[cite: 3].
 * Centralized configuration management and isolated dependency tracking[cite: 3, 4].
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Backend:** FastAPI, Python 3.11.9[cite: 1]
 * **Frontend:** Streamlit, Pandas, Matplotlib[cite: 1, 3]
 * **Database:** SQLite[cite: 1]
 * **Containerization:** Docker[cite: 3]
 
-## 📂 Project Structure
+##  Project Structure
 ```text
 employee-management-system/
 ├── backend.py           # FastAPI application and CRUD endpoints
